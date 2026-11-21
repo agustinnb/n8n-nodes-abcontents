@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-abcontents",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "n8n nodes for ABContents: turn documents, websites or a short brief into narrated videos with captions and music, paid per video.",
     "license": "MIT",
     "homepage": "https://abcontents.com/api-access",
