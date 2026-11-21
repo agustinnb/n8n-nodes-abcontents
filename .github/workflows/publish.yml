@@ -20,3 +20,5 @@ jobs:
       - run: npm run lint
       - run: npm run build
       - run: npm publish --provenance --access public
+        env:
+          RELEASE_MODE: '1' # the n8n template's prepublishOnly blocks a plain npm publish without it
