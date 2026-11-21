@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2
+
+- Language: Portuguese and French narration.
+- Clearer description in the node search.
+
 ## 0.1.1
 
 - Published from GitHub Actions with npm provenance.

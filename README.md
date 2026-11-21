@@ -17,7 +17,7 @@ In n8n, go to **Settings → Community Nodes → Install** and enter `n8n-nodes-
 
 | Operation | What it does |
 |---|---|
-| Create Video | Orders a video. Its sources can be files (the input binary fields you name, up to 9), a website URL or a brief, and you choose the style, length (30–300 s), video type, language (English or Spanish), size (9:16, 4:5, 1:1, 16:9), voice, music, brand name and an email to notify. It returns the video ID, status, price and estimated wait. |
+| Create Video | Orders a video. Its sources can be files (the input binary fields you name, up to 9), a website URL or a brief, and you choose the style, length (30–300 s), video type, language (English, Spanish, Portuguese or French), size (9:16, 4:5, 1:1, 16:9), voice, music, brand name and an email to notify. It returns the video ID, status, price and estimated wait. |
 | Get Video | Returns the status, stage, progress and wait of a video. When it is done, it also returns `downloadUrl`. |
 | Get Quote | Returns the price in tokens and the wait for a style and length, before you order. |
 | List Styles | Returns all styles with their 2D/3D dimension. |

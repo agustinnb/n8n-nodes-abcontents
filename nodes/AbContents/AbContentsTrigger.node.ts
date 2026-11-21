@@ -9,7 +9,7 @@ export class AbContentsTrigger implements INodeType {
 		icon: { light: 'file:abcontents.svg', dark: 'file:abcontents.dark.svg' },
 		group: ['trigger'],
 		version: 1,
-		description: 'Starts the workflow when a video ordered with your API key is ready',
+		description: 'Turn documents into narrated videos with ABContents: starts the workflow when a video ordered with your API key is ready',
 		subtitle: 'Video Ready',
 		defaults: { name: 'ABContents Trigger' },
 		polling: true,
